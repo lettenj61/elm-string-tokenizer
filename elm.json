@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "lettenj61/naive-tokenizer",
+    "name": "lettenj61/string-tokenizer",
     "summary": "A naive implementation of string tokens",
     "license": "MIT",
     "version": "1.0.0",
